@@ -1,6 +1,0 @@
-package com.loqman.responsive_dashboard
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity: FlutterActivity() {
-}
